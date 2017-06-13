@@ -24,7 +24,7 @@ Copyright 2017 SDCO Partners
 ### Folder Structer
 
 ```
-|--/Jubliee/
+|--/bhd/
 |  |
 |  |--/assets/
 |  |
