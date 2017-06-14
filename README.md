@@ -1,6 +1,5 @@
 # Buffalo Heights Distric
 [http://buffaloheightsdistrict.com](http://buffaloheightsdistrict.com)
-Copyright 2017 SDCO Partners
 
 1. Getting Started 
   * Folder Structure
